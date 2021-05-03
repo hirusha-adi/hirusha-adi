@@ -11,7 +11,7 @@
 
 <h3><b><i>🤠 About me: </i></b></h3>
 <li>😇Religion: Buddhist</li>
-<li>🐍 Trying to Learn Python and C++ </li>
+<li>🐍 Trying to Learn Python</li>
 <li>😇Aim: Become a Software Engineer + Network Engineer </li>
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
