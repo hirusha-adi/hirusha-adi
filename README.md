@@ -2,11 +2,7 @@
 <p align="center"><a href="https://github.com/hirusha-adi">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"> 
 </a>
-<! --
-<a href="https://github.com/hirusha-adi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&layout=compact&theme=react&hide_border=true" />
-</a></p>
--->
+
 
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
 <b><i>💻 Just an Average Kid interested on Computers </i></b>
