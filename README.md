@@ -8,7 +8,7 @@
 <b><i>💻 Just an Average Kid interested on Computers </i></b>
 
 <h3><b><i>🤠 About me: </i></b></h3>
-<li>😇Religion: Buddhist</li>
+<li>😇Age: 15</li>
 <li>🐍 Trying to Learn Python</li>
 <li>😇Aim: Become a Software Engineer + Network Engineer </li>
 
