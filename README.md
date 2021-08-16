@@ -11,6 +11,8 @@
 <li>😇Age: 15</li>
 <li>🐍 Trying to Learn Python</li>
 <li>😇Aim: Become a Software Engineer + Network Engineer </li>
+<li>🕸Website: <a href="https://hirusha-adi.github.io/hirusha/index.html" target="blank">New Website - Click here to visit!</a></li>
+<li>🕸Website 2: <a href="https://hirusha-adi.github.io/hirusha/old.html" target="blank">Old Website - Click here to visit!</a></li>
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hirusha-adi&color=blueviolet&style=flat-square"></a>
