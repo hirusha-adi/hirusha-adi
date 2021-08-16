@@ -5,7 +5,7 @@
 
 
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
-<b><i>💻 Just an Average Kid interested on Computers </i></b>
+<!-- <b><i>💻 Just an Average Kid interested on Computers </i></b> -->
 
 <h3><b><i>🤠 About me: </i></b></h3>
 <li>😇Age: 15</li>
@@ -27,5 +27,7 @@
 <a href="https://linustechtips.com/profile/740842-hirushaadikari/"><img align="left" title="LinusTechTips" alt="LinusTechTips" width="30px" src="assets/ltt.png" /></a>
 <a href="https://twitter.com/hirusha_adikari"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
 <a href="https://www.instagram.com/hirusha.adikari/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://www.instagram.com/hirusha.adikari.dev/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://www.instagram.com/hirusha.adikari.photography/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://www.youtube.com/channel/UC6rhQaniYiHId_x7HsHbX_A"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a>
 <a href="https://stackoverflow.com/users/14819138/hirusha-adikari"><img align="left" title="StackOverflow" alt="StackOverflow" width="30px" src="assets/stackoverflow.png" /></a>
