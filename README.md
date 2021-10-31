@@ -17,6 +17,9 @@
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hirusha-adi&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/followers/hirusha-adi?style=social"></a>
+<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/stars/hirusha-adi?style=social"></a>
+
 
 <h2><b><i>🏆 Github Statistics: </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
