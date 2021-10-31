@@ -8,12 +8,10 @@
 
 
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
-<!-- <b><i>💻 Just an Average Kid interested on Computers </i></b> -->
 
 <h3><b><i>🤠 About me: </i></b></h3>
 <li>😇Age: 15</li>
-<li>🐍 Trying to Learn Python</li>
-<!-- <li>😇Aim: Become a Software Engineer + Network Engineer </li>  -->
+<li>🐍 Trying to Learn Something new</li>
 <li>🕸Website: <a href="https://hirusha-adi.github.io/hirusha/index.html" target="blank">New Website - Click here to visit!</a></li>
 <li>🕸Website 2: <a href="https://hirusha-adi.github.io/hirusha/old.html" target="blank">Old Website - Click here to visit!</a></li>
 
@@ -22,6 +20,18 @@
 
 <h2><b><i>🏆 Github Statistics: </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<br>
+<br>
+
+<h2> I have knowledge in </h2>
+<a href="https://github.com/hirusha-adi"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/hirusha-adi"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://github.com/hirusha-adi"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://github.com/hirusha-adi"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://github.com/hirusha-adi"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+<a href="https://github.com/hirusha-adi"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="http://hirusha.tk/"><img align="left" title="AllMyLinks" alt="AllMyLinks" width="30px" src="assets/allmylinks.png" /></a>
@@ -34,3 +44,7 @@
 <a href="https://www.instagram.com/hirusha.adikari.photography/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://www.youtube.com/channel/UC6rhQaniYiHId_x7HsHbX_A"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a>
 <a href="https://stackoverflow.com/users/14819138/hirusha-adikari"><img align="left" title="StackOverflow" alt="StackOverflow" width="30px" src="assets/stackoverflow.png" /></a>
+
+
+
+
