@@ -17,8 +17,8 @@
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hirusha-adi&color=blueviolet&style=flat-square"></a>
-<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/followers/hirusha-adi?style=social"></a>
-<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/stars/hirusha-adi?style=social"></a>
+<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/followers/hirusha-adi?style=for-the-badge"></a>
+<a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/stars/hirusha-adi?style=for-the-badge"></a>
 
 
 <h2><b><i>🏆 Github Statistics: </i></b></h2>
