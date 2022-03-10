@@ -1,10 +1,22 @@
 <!-- Github README -->
+## 📈 GitHub Activity:
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirusha-adi"></img>
+</p>
+
 <p align="center"><a href="https://github.com/hirusha-adi">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"> 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&theme=radical&include_all_commits=true"> 
 </a>
  <a href="https://github.com/hirusha-adi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&layout=compact&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=radical&layout=compact" />
 </a></p>
+
+![activitygraph](https://activity-graph.herokuapp.com/graph?username=hirusha-adi&hide_border=true&theme=redical)
+
+<p align="center">
+<a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+</p>
 
 
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
@@ -13,16 +25,11 @@
 <li>😇Age: 15</li>
 <li>🐍 Trying to Learn Something new</li>
 <li>🕸Website: <a href="https://hirusha-adi.github.io/hirusha/index.html" target="blank">New Website - Click here to visit!</a></li>
-<li>🕸Website 2: <a href="https://hirusha-adi.github.io/hirusha/old.html" target="blank">Old Website - Click here to visit!</a></li>
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hirusha-adi&color=blueviolet&style=flat-square"></a>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/followers/hirusha-adi?style=for-the-badge"></a>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/stars/hirusha-adi?style=for-the-badge"></a>
-
-
-<h2><b><i>🏆 Github Statistics: </i></b></h2>
-<a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <br>
 <br>
