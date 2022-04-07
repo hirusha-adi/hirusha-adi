@@ -55,6 +55,20 @@
 <a href="https://www.youtube.com/channel/UC6rhQaniYiHId_x7HsHbX_A"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a>
 <a href="https://stackoverflow.com/users/14819138/hirusha-adikari"><img align="left" title="StackOverflow" alt="StackOverflow" width="30px" src="assets/stackoverflow.png" /></a>
 
+<br>
+<br>
+
+# To Do
+
+- [ ] Learn some CV2
+- [ ] Create a discord bot for GifGang
+- [ ] Consider removing the Unsplash API from GifGang (THEY SUCK! I STILL CANNOT GET MY API KEY)
+- [ ] Complete the [scam form spammer](https://github.com/hirusha-adi/F-Scammers)
+- [ ] Write a proper README and a gh-pages for [Music Player](https://github.com/hirusha-adi/Music-Player)
+- [ ] Complete the [Discord Powered RAT](https://github.com/hirusha-adi/RAT-via-Discord)
+- [ ] Complete the [Ultimate USB](https://github.com/hirusha-adi/Ultimate-USB)
+
+
 
 
 
