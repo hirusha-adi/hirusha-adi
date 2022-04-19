@@ -60,14 +60,10 @@
 
 # To Do
 
-- [ ] Learn some CV2
 - [ ] Create a discord bot for GifGang
-- [ ] Consider removing the Unsplash API from GifGang (THEY SUCK! I STILL CANNOT GET MY API KEY)
 - [ ] Complete the [scam form spammer](https://github.com/hirusha-adi/F-Scammers)
 - [ ] Complete the [Discord Powered RAT](https://github.com/hirusha-adi/RAT-via-Discord)
 - [ ] Complete the [Ultimate USB](https://github.com/hirusha-adi/Ultimate-USB)
-- [ ] Complete the [Instagram Stalker Web App Thing](https://github.com/hirusha-adi/Instagram-Grabber)
-
 
 
 
