@@ -22,7 +22,8 @@
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
 
 <h3><b><i>🤠 About me: </i></b></h3>
-<li>😇Age: 15</li>
+<li>😇Name: Hirusha Adikari</li>
+<li>😇Age: 16</li>
 <li>🐍 Trying to Learn Something new</li>
 <li>🕸Website: <a href="https://hirusha-adi.github.io/hirusha/index.html" target="blank">New Website - Click here to visit!</a></li>
 
