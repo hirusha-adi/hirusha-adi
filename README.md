@@ -57,13 +57,3 @@
 
 <br>
 <br>
-
-# To Do
-
-- [ ] Create a discord bot for GifGang
-- [ ] Complete the [scam form spammer](https://github.com/hirusha-adi/F-Scammers)
-- [ ] Complete the [Discord Powered RAT](https://github.com/hirusha-adi/RAT-via-Discord)
-- [ ] Complete the [Ultimate USB](https://github.com/hirusha-adi/Ultimate-USB)
-
-
-
