@@ -51,6 +51,8 @@
 # To Do (After A/L)
 
 - Create a `yt-dlp` command generator
+  - use jquery
+  - host on github pages 
 - Make `1v1` Better
 - Rewrite Fuel-App
   - use SQL
