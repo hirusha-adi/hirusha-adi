@@ -12,8 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=radical&layout=compact" />
 </a></p>
 
-![activitygraph](https://activity-graph.herokuapp.com/graph?username=hirusha-adi&hide_border=true&theme=redical)
-
 <p align="center">
 <a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </p>
@@ -55,5 +53,5 @@
 - Create a `yt-dlp` command generator
 - Make `1v1` Better
 - Rewrite Fuel-App
- - use SQL
- - implement a proper authentication mechanism 
+  - use SQL
+  - implement a proper authentication mechanism 
