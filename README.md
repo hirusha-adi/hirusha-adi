@@ -49,3 +49,11 @@
 
 <br>
 <br>
+
+# To Do (After A/L)
+
+- Create a `yt-dlp` command generator
+- Make `1v1` Better
+- Rewrite Fuel-App
+ - use SQL
+ - implement a proper authentication mechanism 
