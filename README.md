@@ -56,4 +56,5 @@
 - Make `1v1` Better
 - Rewrite Fuel-App
   - use SQL
-  - implement a proper authentication mechanism 
+  - implement a proper authentication mechanism
+- help nope with scambaiting stuff
