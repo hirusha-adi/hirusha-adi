@@ -19,12 +19,6 @@
 
 <h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
 
-<h3><b><i>🤠 About me: </i></b></h3>
-<li>😇Name: Hirusha Adikari</li>
-<li>😇Age: 17</li>
-<li>🐍 Trying to Learn Something new</li>
-<li>🕸Website: <a href="https://hirusha-adi.github.io/hirusha/index.html" target="blank">New Website - Click here to visit!</a></li>
-
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=hirusha-adi&color=blueviolet&style=flat-square"></a>
 <a href="https://github.com/hirusha-adi"><img height="25" title="Counter" src="https://img.shields.io/github/followers/hirusha-adi?style=for-the-badge"></a>
@@ -47,9 +41,3 @@
 
 <br>
 <br>
-
-# To Do (After A/L)
-
-- Rewrite Fuel-App
-  - use SQL
-  - implement a proper authentication mechanism
