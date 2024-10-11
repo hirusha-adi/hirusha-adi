@@ -1,4 +1,8 @@
-<!-- Github README -->
+<h2><b>👋 Hello! I'm <i>Hirusha Adikari</i></b></h2>
+
+I code sometimes. Visit my website at: [hirusha.xyz](https://hirusha.xyz) for more information.
+
+
 ## 📈 GitHub Activity:
 
 <p align="center">
@@ -15,11 +19,6 @@
 <p align="center">
 <a href="https://github.com/hirusha-adi"><img width=550 src="https://github-profile-trophy.vercel.app/?username=hirusha-adi&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </p>
-
-
-<h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
-
-I code sometimes. Visit my website at: [hirusha.xyz](https://hirusha.xyz) for more information.
 
 <br>
 <br>
