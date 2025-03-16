@@ -1,11 +1,11 @@
 <h2><b>👋 Hello! I'm <i>Hirusha Adikari</i></b></h2>
 
-I code sometimes. Visit my website at: [hirusha.xyz](https://hirusha.xyz) for more information.
+I code sometimes. Visit my website at: [hirusha.xyz](https://hirusha.xyz) for some social links. My blog is at [informati.cc](https://informati.cc/blog)
 
 
 ## 📈 GitHub Activity:
 
-<p align="center">
+<p align="center"
 <img src="https://nirzak-streak-stats.vercel.app/?user=hirusha-adi&theme=radical&hide_border=false"></img>
 </p>
 
