@@ -5,7 +5,7 @@ I code sometimes. My blog is at [informati.cc](https://informati.cc/blog).
 Jack of all trades, master of none.
 
 
-## 📈 GitHub Activity:
+## GitHub Activity:
 
 <!-- Broken piece of shit service. I should build my own. -->
 <!-- <p align="center"
@@ -20,5 +20,7 @@ Jack of all trades, master of none.
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=radical&layout=compact" />
     </a>
 </p>
+
+That's pretty much it :-)
 
 > "An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterf*cked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it." - Terry A. Davis
