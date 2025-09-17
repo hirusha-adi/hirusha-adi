@@ -1,9 +1,8 @@
 <h2><b>👋 Hello! I'm <i>Hirusha Adikari</i></b></h2>
 
-I code sometimes. My blog is at [informati.cc](https://informati.cc/blog). 
+My blog is at [informati.cc](https://informati.cc/blog). 
 
-Jack of all trades, master of none.
-
+Level 9 Tekneeshion. I code sometimes.
 
 ## GitHub Activity:
 
