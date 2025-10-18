@@ -12,10 +12,10 @@ Level 9 Tekneeshion. I code sometimes.
 
 <p align="center">
     <a href="https://github.com/hirusha-adi">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&theme=radical&include_all_commits=true"> 
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&theme=dark&include_all_commits=true"> 
     </a>
     <a href="https://github.com/hirusha-adi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=radical&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=dark&layout=compact" />
     </a>
 </p>
 
