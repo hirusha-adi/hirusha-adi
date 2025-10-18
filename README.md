@@ -6,10 +6,9 @@ Level 9 Tekneeshion. I code sometimes.
 
 ## GitHub Activity:
 
-<!-- Broken piece of shit service. I should build my own. -->
-<!-- <p align="center"
-<img src="https://nirzak-streak-stats.vercel.app/?user=hirusha-adi&theme=radical&hide_border=false"></img>
-</p> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <p align="center">
     <a href="https://github.com/hirusha-adi">
