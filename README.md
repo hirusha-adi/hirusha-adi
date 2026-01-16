@@ -7,17 +7,8 @@ Level 9 Tekneeshion. I code sometimes.
 ## GitHub Activity:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hirusha-adi&theme=dark&hide_border=false" height="220" alt="streak graph"  />
 </div>
-
-<p align="center">
-    <a href="https://github.com/hirusha-adi">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=hirusha-adi&show_icons=true&theme=radical&include_all_commits=true"> 
-    </a>
-    <a href="https://github.com/hirusha-adi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirusha-adi&theme=radical&layout=compact" />
-    </a>
-</p>
 
 That's pretty much it :-)
 
